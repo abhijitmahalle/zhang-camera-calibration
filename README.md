@@ -1,7 +1,9 @@
-# Zhang's Camera Calibration
-This proejct describes in brief the implementation of camera calibration method as described by Zhengyou Zhang in his paper [”A Flexible New Technique for Camera Calibration”](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr98-71.pdf)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## To run the code
+# Zhang's Camera Calibration
+This repository contains code for camera calibration using the method described by Zhengyou Zhang in his paper [”A Flexible New Technique for Camera Calibration”](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr98-71.pdf)
+
+## Instructions to run the code:
 - Change the location to the root directory
 - Run the following command: 
 ```
